@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDD", "PDD\PDD.csproj", "{BEE4E26C-19CC-4889-AF24-B614DD2B66BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDDLibrary", "PDDLibrary\PDDLibrary.csproj", "{284113B6-A5F7-4D45-8D9D-35149730D189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE4E26C-19CC-4889-AF24-B614DD2B66BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE4E26C-19CC-4889-AF24-B614DD2B66BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE4E26C-19CC-4889-AF24-B614DD2B66BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE4E26C-19CC-4889-AF24-B614DD2B66BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284113B6-A5F7-4D45-8D9D-35149730D189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284113B6-A5F7-4D45-8D9D-35149730D189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284113B6-A5F7-4D45-8D9D-35149730D189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284113B6-A5F7-4D45-8D9D-35149730D189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A07FA0D-FDDE-42B7-B4ED-0C60FEF2D090}
+	EndGlobalSection
+EndGlobal
